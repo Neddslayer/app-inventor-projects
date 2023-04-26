@@ -1,2 +1,2 @@
-# app-inventor-projects
+# App Inventor Projects
 App inventor projects I made in school
